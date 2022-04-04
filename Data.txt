@@ -2,3 +2,4 @@ Start :
 feature 1
 bug: update ft 1 bug 1
 fix release
+Hot fix 1
