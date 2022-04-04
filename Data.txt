@@ -1,4 +1,4 @@
 Start :
-Ajouter ft 1
-Mettre a jour ft 1
+Ajouter feature 2
+update feature
 fix release
